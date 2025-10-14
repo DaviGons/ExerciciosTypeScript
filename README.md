@@ -1,2 +1,0 @@
-# ExerciciosTypeScript
-Aluno
