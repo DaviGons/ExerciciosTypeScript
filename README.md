@@ -1,11 +1,11 @@
 
 -----
 
-# 📚 Gerador de Boletim Escolar (TypeScript CLI)
+#  Gerador de Boletim Escolar (TypeScript CLI)
 
-Este projeto é um script de linha de comando (CLI) simples, escrito em **TypeScript** e executado no ambiente **Node.js**, que realiza o processamento de notas e faltas de um aluno para gerar um boletim de avaliação e registrar os dados em um arquivo CSV.
+Este projeto é um script de linha de comando (CLI) simples, escrito em **TypeScript** e executado no ambiente **Node.js**, que realiza o processamento de notas e faltas de um aluno para gerar um boletim de avaliação e registrar os dados em um arquivo CSV. (Alunos: Davi Gonçalves Silva, RA 2505783 // Gustavo Zaia Pastro, RA:2506964 )
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 O script realiza as seguintes tarefas:
 
@@ -18,7 +18,7 @@ O script realiza as seguintes tarefas:
 5.  **Geração de Boletim (.txt):** Cria um arquivo de texto detalhado com todas as notas, médias e a situação final do aluno.
 6.  **Registro de Alunos (.csv):** Adiciona os dados básicos do aluno (Nome e Série) a um arquivo de registro geral (`registro_alunos.csv`).
 
-## 🚀 Como Executar o Projeto
+##  Como Executar o Projeto
 
 Para rodar este script, você precisa ter o **Node.js** (que inclui o `npm`) e o **TypeScript** configurados.
 
@@ -88,7 +88,7 @@ Após a execução, os seguintes arquivos serão gerados no diretório raiz do p
 
 -----
 
-## 📝 Regras de Aprovação
+##  Regras de Aprovação
 
 | Critério | Regra | Mínimo Exigido |
 | :--- | :--- | :--- |
