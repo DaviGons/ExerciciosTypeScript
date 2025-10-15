@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    /* Mude para CommonJS (Padrão e estável para Node e readline-sync) */
+    "target": "es2020",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    
+    /* Remova ou Comente a linha 'isolatedModules' e 'verbatimModuleSyntax' */
+    // "isolatedModules": true, 
+    // "verbatimModuleSyntax": true, 
+    
+    /* Mantenha as configurações de qualidade */
+    "strict": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    
+    /* Configurações de diretório */
+    "outDir": "./dist",
+    "rootDir": "./src"
+  }
+}
